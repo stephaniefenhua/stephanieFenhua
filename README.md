@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephanie Su, a Computer Science major at UC Berkeley, and aspiring Product Manager and Software Engineer.
-- 💼 I’m a SWE Intern at Meta/Facebook on the In-Stream Ads: Creator and Ecosystem team.
+- 💼 Previous, I interned at Meta on the Creator Ecosystem team, helping creators monetize Facebook videos.
 - 📫 [LinkedIn](https://www.linkedin.com/in/steph-su/) | [stephsu.me](http://stephsu.me) | [stephsu@berkeley.edu](mailto:stephsu@berkeley.edu)
 
 <!---
