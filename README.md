@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Stephanie Su, a Computer Science major at UC Berkeley, and aspiring Software Engineer.
-- 💼 Previous, I interned at Meta on the Creator Ecosystem team, helping creators monetize Facebook videos.
+- 👋 Hi, I’m Stephanie Su, a Computer Science student at UC Berkeley and aspiring software engineer.
+- 💼 Previously, I interned at Meta on the Creator Ecosystem team, helping creators monetize Facebook videos.
 - 📫 [LinkedIn](https://www.linkedin.com/in/steph-su/) | [stephsu.me](http://stephsu.me) | [stephsu@berkeley.edu](mailto:stephsu@berkeley.edu)
 
 <!---
